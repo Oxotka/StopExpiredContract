@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Enum uuid="625c1833-6b44-4f3a-b26e-1109d1b4aed9">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ПорядокРегистрацииСчетовФактурНаАванс" category="Ref">
+				<xr:TypeId>9b429ee3-d59a-4890-9829-8a166075db73</xr:TypeId>
+				<xr:ValueId>122e6477-93c1-47a2-905c-1c91031e6467</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ПорядокРегистрацииСчетовФактурНаАванс" category="Manager">
+				<xr:TypeId>bd07d1f6-8e3f-478c-8456-7932bea06323</xr:TypeId>
+				<xr:ValueId>ecc75e4d-571e-4fbd-93ff-ef55871ad7a8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ПорядокРегистрацииСчетовФактурНаАванс" category="List">
+				<xr:TypeId>3f037a78-23a8-4315-91e4-48c9e3ebfaf9</xr:TypeId>
+				<xr:ValueId>5a30ce2f-4fed-4fcb-9045-4862e5b32d80</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПорядокРегистрацииСчетовФактурНаАванс</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>

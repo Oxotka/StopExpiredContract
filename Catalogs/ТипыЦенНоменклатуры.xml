@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
+	<Catalog uuid="ae12c43a-66f1-4b3d-9a10-fff328d95edc">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТипыЦенНоменклатуры" category="Object">
+				<xr:TypeId>c50e4135-abc7-40f2-a489-e9411abd31cc</xr:TypeId>
+				<xr:ValueId>8dc66e08-2466-4578-a1ba-2c9d38191be7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТипыЦенНоменклатуры" category="Ref">
+				<xr:TypeId>dc83bd08-1405-4568-a743-661cd676b344</xr:TypeId>
+				<xr:ValueId>a818b045-f097-4c96-aaef-b37d20a0bda8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТипыЦенНоменклатуры" category="Selection">
+				<xr:TypeId>22b2e4f9-0d17-4de3-9a02-a48afa542fbf</xr:TypeId>
+				<xr:ValueId>e1164734-7482-45a1-9606-e382faa916df</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТипыЦенНоменклатуры" category="List">
+				<xr:TypeId>ac3ebceb-c827-4685-b3e7-3311338c5aed</xr:TypeId>
+				<xr:ValueId>2e563c98-62f6-459d-960e-19a3a435c432</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТипыЦенНоменклатуры" category="Manager">
+				<xr:TypeId>c7b39290-dac6-490b-923e-8740f37f82b7</xr:TypeId>
+				<xr:ValueId>8b4c8e30-3a57-499d-973b-232c31c3791a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТипыЦенНоменклатуры</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
